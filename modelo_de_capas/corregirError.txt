@@ -1,0 +1,15 @@
+✅ SOLUCIÓN RECOMENDADA (la correcta)
+🔧 Opción 1 – Decirle a NetBeans cuál es la main class (más simple)
+
+1. Click derecho sobre el proyecto PruebaCapas
+2. Properties
+3. Run
+4. En Main Class:
+  Tocá Browse
+  Elegí:
+    logica.PruebaCapas
+
+5.OK
+6. Ejecutá de nuevo ▶️
+
+✔️ Con eso ya debería levantar la ventana Swing sin errores.
